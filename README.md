@@ -7,5 +7,5 @@ Iris is a very popular data for classification problems. It requires no cleaning
 	Features: Sepal length (cm), Sepal width (cm), Petal length (cm), Petal width (cm)
 	Labels: Setosa, Versicolour and Virginia
 
-	Iris_train.txt has 40 data points.
-	Iris_test.txt has 10 data points.
+Iris_train.txt has 40 data points.
+Iris_test.txt has 10 data points.
