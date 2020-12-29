@@ -2,7 +2,7 @@
 Queen's University, Fall 2020
 Course: COGS 400 - Neural and Genetic Computing
 Assignment 1 - Perceptron Part A - Simple Feedback Learning
-Student Number: 20062694
+Student Number: ********
 '''
 import numpy as np
 import pandas as pd
